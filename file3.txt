@@ -1,0 +1,6 @@
+leagues in order of thier ranking
+1. PL
+2. La liga
+3. Bundesliga
+4. Seria A
+5. Ligue 1
